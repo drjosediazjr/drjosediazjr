@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: dracula
-  theme_night: Earth
-  font: Ocean
+  theme_day: Forest
+  theme_night: Dracula
+  font: minimal
   font_size: L
 
 # SEO
