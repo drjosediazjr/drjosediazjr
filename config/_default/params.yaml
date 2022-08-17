@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_light: Earth
-  theme_dark: Apogee
+  theme_day: Earth
+  theme_night: Apogee
   font: Ocean
   font_size: M
 
