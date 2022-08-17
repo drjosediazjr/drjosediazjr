@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: strawberry
-  theme_night: strawberry
-  font: strawberry
+  theme_day: Earth
+  theme_night: Mr Robot
+  font: Strawberry
   font_size: M
 
 # SEO
