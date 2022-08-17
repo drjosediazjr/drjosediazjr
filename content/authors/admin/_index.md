@@ -3,7 +3,8 @@ role: Postdoctoral Associate
 bio: ""
 interests:
   - Sexual minority health and well-being
-  - Hispanic/Latino/e/x sexual minority populations
+  - Latine/x sexual minority adults
+
 social:
   - icon: envelope
     icon_pack: fas
